@@ -7,4 +7,5 @@ Fingerprint based authentication is one of the most extensively used authenticat
 
 For Codes, kindly send an email to iit.sadaf@gmail.com
 
-Reference/Citation: **Syed Sadaf Ali**, I. I. Ganapathi and S. Prakash. Fingerprint Shell with impregnable features. Journal of Intelligent & Fuzzy Systems, 2019.
+Reference/Citation: Syed Sadaf Ali and S. Prakash. Fingerprint Shell construction with prominent minutiae points, In Proc. of
+10th Annual ACM India Conference (ACM COMPUTE 2017), Bhopal, India, 2017.
